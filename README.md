@@ -73,7 +73,7 @@ while Finance and Sales were the weakest and need the most attention.
 │   └── INX_Employee_Performance_Analysis.ipynb
 ├── summary/
 │   └── INX_Project_Summary.docx
-├── requirements.txt
+├── requirements (1).txt
 └── README.md
 ## How to Run
 
@@ -84,7 +84,7 @@ while Finance and Sales were the weakest and need the most attention.
 ```
 2. Install the required libraries:
 ```bash
-   pip install -r requirements.txt
+   pip install -r requirements(1).txt
 ```
 3. Launch Jupyter:
 ```bash
@@ -93,7 +93,7 @@ while Finance and Sales were the weakest and need the most attention.
 4. Open the notebook and run all cells from top to bottom.
 
 > Note: the dataset is an older `.xls` file, which is why `xlrd` is included in
-> the requirements. Make sure the data file path in the notebook points to
+> the requirements(1). Make sure the data file path in the notebook points to
 > where you have saved the data.
 
 ## Tools Used
